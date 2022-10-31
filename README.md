@@ -1,1 +1,2 @@
-The program is chinese 
+Nice to meet you!
+
